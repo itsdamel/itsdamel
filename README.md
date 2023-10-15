@@ -30,3 +30,6 @@
     <img alt='figma' src='https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white'>
     <img alt='Jira' src='https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white'>
 </div>
+
+###Highlited projects
+- [Popular movies web page - Vanilla JS, APIREST](https://itsdamel.github.io/popular-movies/)

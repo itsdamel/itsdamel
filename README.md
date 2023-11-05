@@ -32,4 +32,5 @@
 </div>
 
 ### Highlited projects
+- [CASA VERDE e-commerce: REACT, NODE, EXPRESS, STYLED COMPONENTS](https://github.com/itsdamel/ecasaverde)
 - [Popular movies web page - Vanilla JS, APIREST](https://itsdamel.github.io/popular-movies/)

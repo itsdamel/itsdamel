@@ -34,5 +34,5 @@
 
 ### Highlited projects
 - [Portfolio - REACT](https://meldemelo-portfolio.vercel.app/)
-- [CASA VERDE e-commerce: REACT, NODE, EXPRESS, STYLED COMPONENTS](https://github.com/itsdamel/ecasaverde)
+- [CASA VERDE e-commerce: REACT, NODE, EXPRESS, STYLED COMPONENTS](https://willowy-sopapillas-7e536a.netlify.app/)
 - [Popular movies web page - Vanilla JS, APIREST](https://itsdamel.github.io/popular-movies/)
